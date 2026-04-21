@@ -2,9 +2,7 @@
 
 This repository contains the data and machine-learning code used in the article:
 
-**Machine-Learning-Assisted Analysis of Optical and Dielectric Properties in Doped Multiferroic**  
-Submitted to *Computational Materials Science*.
-
+Delocalization and Localization Effects in LaCo co-Doped BiFeO₃ Revealed by DFT and Machine Learning for Optoelectronic and Energy Storage Devices
 ## Repository Structure
 - `data/` – Optical and dielectric datasets used in the study
 - `code/` – Machine-learning Jupyter notebooks and scripts
