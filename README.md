@@ -1,4 +1,4 @@
-# Machine-Learning-Assisted Analysis of Optical and Dielectric Properties in Doped Multiferroic
+# Dopant‑Driven Optical and Dielectric Responses in Multiferroic for Optoelectronic Device: A Combined DFT and Machine‑Learning Study
 
 This repository contains the data and machine-learning code used in the article:
 
